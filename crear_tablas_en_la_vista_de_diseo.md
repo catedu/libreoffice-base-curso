@@ -1,0 +1,1 @@
+{% include "git+https://github.com/catedu/libreOffice-la-suite-ofimatica-libre.git/crear_tablas_en_la_vista_de_diseo.md" %}

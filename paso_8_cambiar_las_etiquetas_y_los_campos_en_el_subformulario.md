@@ -1,0 +1,1 @@
+{% include "git+https://github.com/catedu/libreOffice-la-suite-ofimatica-libre.git/paso_8_cambiar_las_etiquetas_y_los_campos_en_el_subformulario.md" %}

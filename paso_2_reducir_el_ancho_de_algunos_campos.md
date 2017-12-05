@@ -1,0 +1,1 @@
+{% include "git+https://github.com/catedu/libreOffice-la-suite-ofimatica-libre.git/paso_2_reducir_el_ancho_de_algunos_campos.md" %}

@@ -1,0 +1,1 @@
+{% include "git+https://github.com/catedu/libreOffice-la-suite-ofimatica-libre.git/paso_7_cambiar_el_campo_misc_notas.md" %}
